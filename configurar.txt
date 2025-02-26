@@ -1,0 +1,4 @@
+# 1. Extraia o arquivo ZIP
+# 2. Copie a pasta extraída para C:\Program Files\poppler
+# 3. Adicione ao PATH do sistema:
+#    C:\Program Files\poppler\Library\bin
